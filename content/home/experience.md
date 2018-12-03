@@ -19,27 +19,37 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Assistant Professor"
+  company = "Brigham Young University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Utah"
+  date_start = "2018-11-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Teach the following courses:
+
+  * CEEn 361: Introduction to Transportation engineering
+  * CEEn 662: Transport Simulation and Analysis
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Analyst"
+  company = "Transport Foundry"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "North Carolina"
+  date_start = "2017-01-01"
+  date_end = "2018-10-31"
+  description = """
+  Developed a data-driven travel model from passive and public data sources.
+  """
+
+[[experience]]
+  title = "Data Scientist / Technical Principal"
+  company = "WSP Systems Analysis Group"
+  company_url = ""
+  location = "North Carolina"
+  date_start = "2014-06-01"
+  date_end = "2017-04-21"
+  description = """Consulted on travel demand modeling projects for public-sector clients."""
 
 +++
