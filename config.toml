@@ -99,8 +99,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 3
   map_api_key = "pk.eyJ1IjoiZ3JlZ21hY2ZhcmxhbmUiLCJhIjoiY2lqeWwxejhqMXpwY3Y1bTVuaGkyZ3FpbSJ9.kksJtJCNf34wGkoBkWmPcg"
-  latitude = "40.2518"
-  longitude = "-111.6493"
+  latitude = "40.2467844"
+  longitude = "-111.6475692"
   zoom = 15
 
   # SITE SETUP
@@ -302,13 +302,13 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 3
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 3
 
 [[menu.main]]
   name = "Posts"
@@ -316,10 +316,10 @@ enableGitInfo = false
   weight = 4
 
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+#[[menu.main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
