@@ -19,13 +19,12 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Transportation Research Part A: Policy and Practice*"
-publication_short = "TR-A"
 
 # Abstract and optional shortened version.
 abstract = "Understanding homeowners’ marginal willingness-to-pay (MWTP) for proximity to public transportation infrastructure is important for planning and policy. Naïve estimates of MWTP, however, may be biased as a result of spatial dependence, spatial correlation, and/or spatially endogenous variables. In this paper we discuss a class of spatial autoregressive models that control for these spatial effects, and apply them to sample data collected for the Atlanta, Georgia housing market. We provide evidence that a general-to-specific model selection methodology that relies on the generality of the spatial Durbin model (SDM) should be preferred to the classical specific-to-general methodology that begins with an assumption of no spatial effects. We show that applying the SDM raises the estimate of MWTP for transit proximity in Atlanta but also widens its confidence interval, relative to ordinary linear regression. This finding may have implications for risk estimations in land value capture forecasts and transportation policy decisions."
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

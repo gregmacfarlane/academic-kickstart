@@ -18,7 +18,6 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Transportation Research Part A: Policy and Practice*"
-publication_short = "TR-A"
 
 # Is this a selected publication? (true/false)
 selected = true

@@ -19,7 +19,6 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Transportation Research Board Annual Meeting*"
-publication_short = "TRB"
 
 # Abstract and optional shortened version.
 abstract = "Public rail transit infrastructure and other features of the urban environment shape housing markets, as neighborhoods with high accessibility also tend to be highly valued. But housing markets are dynamic and sometimes turbulent, and the role that transit infrastructure plays in long-term home value in the face of macroscopic events has not been studied. In this paper, we model the performance of the Atlanta housing market in the period from 2002-2012 as a function of a home's proximity to the MARTA rail network. Univariate spatial Durbin models show homes in proximity to public transit had higher values and higher growth rates over the period than homes further away. Multivariate latent class mixture models confirm these results and also show that the Atlanta housing market can be considered as two distinct classes: homes near to MARTA are more likely to be in a class with positive value growth over the period."
