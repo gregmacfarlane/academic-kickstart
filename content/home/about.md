@@ -39,3 +39,5 @@ I am an assistant professor in the Civil and Environmental Engineering
 department at Brigham Young University. I research transportation engineering
 and planning, with a specific emphasis in using modern passive data products to
 build models of travel behavior and land development.
+
+I wonder if this would look okay with a second paragraph.
