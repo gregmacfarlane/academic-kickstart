@@ -22,13 +22,15 @@ date_format = "January 2006"
   title = "Assistant Professor"
   company = "Brigham Young University"
   company_url = ""
-  location = "Utah"
+  location = " "
   date_start = "2018-11-01"
   date_end = ""
   description = """
   Teach the following courses:
 
-  * CEEn 361: Introduction to Transportation engineering
+  * CEEn 201: Sustainable Infrastructure
+  * CEEn 361: Introduction to Transportation Engineering
+  * CEEn 565: Urban Transportation Planning
   * CEEn 662: Transport Simulation and Analysis
   """
 
@@ -36,7 +38,7 @@ date_format = "January 2006"
   title = "Analyst"
   company = "Transport Foundry"
   company_url = ""
-  location = "North Carolina"
+  location = " "
   date_start = "2017-01-01"
   date_end = "2018-10-31"
   description = """
@@ -47,7 +49,7 @@ date_format = "January 2006"
   title = "Data Scientist / Technical Principal"
   company = "WSP Systems Analysis Group"
   company_url = ""
-  location = "North Carolina"
+  location = " "
   date_start = "2014-06-01"
   date_end = "2017-04-21"
   description = """Consulted on travel demand modeling projects for public-sector clients."""
