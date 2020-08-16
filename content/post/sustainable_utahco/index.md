@@ -23,7 +23,8 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = ""
+  caption = 'Wasatch Mountains. <span>Photo by <a href="https://unsplash.com/@brandgreen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brandon Green</a> on <a href="https://unsplash.com/s/photos/wasatch-mountains?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>'
+
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
