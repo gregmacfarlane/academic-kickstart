@@ -65,9 +65,9 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "gregmacfarlane@byu.edu"
   address = "430 B Engineering Building<br> Brigham Young University<br> Provo, UT 84602"
-  office_hours = "Monday, Wednesday, Friday 8:00 to 10:00 or by appointment"
+  office_hours = "Monday 10 to noon, Tuesday 3 to 5, or by appointment"
   phone = "801 422 8505"
-  skype = "gregorymacfarlane"
+  #zoom = "914 0889 3898"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.
 
@@ -134,7 +134,7 @@ enableGitInfo = false
   reading_time = true
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
