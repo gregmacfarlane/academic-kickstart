@@ -92,7 +92,7 @@ automobile dealership being the nearest business to fully three of the system's
 eighteen stops. Home developers in Pleasant Grove and Springville have been
 building attractive and popular semi-detached or fully detached homes on
 small-footprint lots; neighborhoods like this make it easier for residents to
-walk to schools, shops, or transit and also conserve water by eliminating useless
+walk to schools, shops, or transit and also conserve water by eliminating excessive
 lawn space. But these particular neighborhoods are hemmed into former industrial
 or agricultural lots without access to any of these additional community
 resources.
@@ -105,9 +105,8 @@ air quality. But there things each city should do to grow sustainably:
   1. Develop a master transportation plan that prioritizes active transportation
   and public transit.
   1. Require that new  developments contribute to this plan in their designs.
-  This often means placing parking behind developments so that cyclists and
-  pedestrians do not have to cross acres of parking lot.
-  1. Build housing for families of all sizes, structures, and incomes.
+  To help, cities in Utah County should [eliminate minimum parking requirements](https://www.planning.org/planning/2018/oct/peopleoverparking/).
+  1. Zone for housing for families of all sizes, structures, and incomes.
   1. Implement tax incentives that promote higher density developments around
   transit stations and in the city core. A
   [land value tax](https://www.strongtowns.org/landvaluetax) would use the
