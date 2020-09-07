@@ -65,14 +65,12 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "gregmacfarlane@byu.edu"
   address = "430 B Engineering Building<br> Brigham Young University<br> Provo, UT 84602"
-  office_hours = "Monday 10 to noon, Tuesday 3 to 5, or by appointment"
+  office_hours = "https://calendly.com/gregmacfarlane/office-hours"
   phone = "801 422 8505"
   #zoom = "914 0889 3898"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.
 
-  # Enter an optional link for booking appointments (e.g. calendly.com).
-  appointment_url = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
