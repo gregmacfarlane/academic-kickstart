@@ -18,15 +18,15 @@ authors = ["Gregory S. Macfarlane", "Nico Boyd", "John E. Taylor", "Kari E. Watk
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper"
-publication_short = ""
+publication = "Environment and Planning B: Urban Analytics and City Science"
+publication_short = "Environment and Planning B"
 
 # Abstract and optional shortened version.
 abstract = "Recent research has underscored the potential for public green spaces to influence individual and societal health outcomes, but empirical measurements of such influences have yielded mixed results to date, with particular disagreement surrounding how access to parks ought to be defined while controlling for alternate explanations. In this paper we apply a comprehensive measure of park accessibility drawn from random utility choice theory, which avoids arbitrary assertions of proximity while incorporating potentially numerous amenities and attributes of both the parks and the population. We apply this utility-based accessibility measure to correlate Census tract-level obesity and physical activity rate estimates from the Centers for Disease Control and Prevention's 500 Cities project with tract-level American Community Survey socioeconomic data in New York City, paired with geographic open space data from New York City. Controlling for the socioeconomic variables and spatially correlated error terms, we show a positive and significant relationship between park access and physical activity rates. The data also suggest a negative relationship between park access and obesity rates, beyond what is expected through physical activity and socioeconomics. In doing so, this research contributes a more comprehensive modeling approach for measuring the impact of park access on health, and may improve our understanding of the role  parks and access to them can serve in furthering public health objectives."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -70,7 +70,7 @@ doi = ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = ""
+  caption = '<span>Photo by <a href="https://unsplash.com/@ignaciobrosa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ignacio Brosa</a> on <a href="https://unsplash.com/s/photos/park?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>'
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
