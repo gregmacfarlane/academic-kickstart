@@ -1,6 +1,6 @@
 +++
 title = "Modeling the impacts of park access on health outcomes: a utility-based accessibility approach"
-date = 2019-10-28T13:33:05-06:00
+date = 2020-11-23
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
