@@ -18,7 +18,7 @@ authors = ["Gregory S. Macfarlane", "Christian Hunter", "Austin Martinez", "Eliz
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Smart Cities"
+publication = "*Smart Cities*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -31,15 +31,15 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ['t-score']
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.mdpi.com/2624-6511/4/2/36/pdf"
 url_preprint = "preprint.pdf"
 url_code = ""
 url_dataset = ""
@@ -64,14 +64,14 @@ url_source = ""
 url_custom = [{name = "Project website", url = "https://byu-transpolab.github.io/via_riders/"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.3390/smartcities4020036"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = "Image credit: [**Piotrek**](https://unsplash.com/photos/bSGFdq_WkEM)"
-  
+
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
